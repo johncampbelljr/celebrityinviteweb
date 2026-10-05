@@ -1,0 +1,152 @@
+{
+  "categories": {
+    "movies": {
+      "emoji": "🎬",
+      "label": "Movies"
+    },
+    "music": {
+      "emoji": "🎤",
+      "label": "Music"
+    },
+    "sports": {
+      "emoji": "🏆",
+      "label": "Sports"
+    },
+    "politics": {
+      "emoji": "🏛️",
+      "label": "Politics"
+    },
+    "tv": {
+      "emoji": "✨",
+      "label": "TV"
+    }
+  },
+  "celebrities": [
+    {
+      "slug": "george-clooney",
+      "name": "George Clooney",
+      "first": "George",
+      "cat": "movies",
+      "tag": "Oscar winner. Eternal best-man energy."
+    },
+    {
+      "slug": "taylor-swift",
+      "name": "Taylor Swift",
+      "first": "Taylor",
+      "cat": "music",
+      "tag": "Will absolutely write a song about this party."
+    },
+    {
+      "slug": "dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "first": "The Rock",
+      "cat": "movies",
+      "tag": "Can bench-press the buffet table. Brings pancakes."
+    },
+    {
+      "slug": "beyonce",
+      "name": "Beyoncé",
+      "first": "Beyoncé",
+      "cat": "music",
+      "tag": "The party officially starts when she says it starts."
+    },
+    {
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "first": "Keanu",
+      "cat": "movies",
+      "tag": "Breathtaking. Extremely polite. Knows kung fu."
+    },
+    {
+      "slug": "zendaya",
+      "name": "Zendaya",
+      "first": "Zendaya",
+      "cat": "movies",
+      "tag": "Will out-dress everyone, including the host."
+    },
+    {
+      "slug": "barack-obama",
+      "name": "Barack Obama",
+      "first": "Barack",
+      "cat": "politics",
+      "tag": "44th President. A killer toast is guaranteed."
+    },
+    {
+      "slug": "oprah-winfrey",
+      "name": "Oprah Winfrey",
+      "first": "Oprah",
+      "cat": "tv",
+      "tag": "You get a seat! And YOU get a seat!"
+    },
+    {
+      "slug": "lionel-messi",
+      "name": "Lionel Messi",
+      "first": "Leo",
+      "cat": "sports",
+      "tag": "The GOAT. Might nutmeg your coffee table."
+    },
+    {
+      "slug": "serena-williams",
+      "name": "Serena Williams",
+      "first": "Serena",
+      "cat": "sports",
+      "tag": "23 Grand Slams. Undefeated at party games too."
+    },
+    {
+      "slug": "tom-hanks",
+      "name": "Tom Hanks",
+      "first": "Tom",
+      "cat": "movies",
+      "tag": "America's dad. Makes sure everyone gets home safe."
+    },
+    {
+      "slug": "lady-gaga",
+      "name": "Lady Gaga",
+      "first": "Gaga",
+      "cat": "music",
+      "tag": "Born to perform. May arrive in an egg."
+    },
+    {
+      "slug": "ryan-reynolds",
+      "name": "Ryan Reynolds",
+      "first": "Ryan",
+      "cat": "movies",
+      "tag": "Professional wisecracker. Conveniently owns a gin brand."
+    },
+    {
+      "slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "first": "Snoop",
+      "cat": "music",
+      "tag": "Controls the aux cord. This is non-negotiable."
+    },
+    {
+      "slug": "ariana-grande",
+      "name": "Ariana Grande",
+      "first": "Ariana",
+      "cat": "music",
+      "tag": "The ponytail requires its own seat. Worth it."
+    },
+    {
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "first": "Morgan",
+      "cat": "movies",
+      "tag": "Will narrate the entire evening. You'll love it."
+    },
+    {
+      "slug": "michelle-obama",
+      "name": "Michelle Obama",
+      "first": "Michelle",
+      "cat": "politics",
+      "tag": "When the party goes low, she goes high."
+    },
+    {
+      "slug": "elton-john",
+      "name": "Elton John",
+      "first": "Elton",
+      "cat": "music",
+      "tag": "Still standing. Still sparkling. Brings the piano."
+    }
+  ]
+}

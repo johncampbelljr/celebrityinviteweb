@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "movies",
+      "emoji": "🎬",
+      "label": "Movies",
+      "chipBg": "#FFE3EF",
+      "chipText": "#C2186B",
+      "noun": ["movie star", "movie stars"],
+      "closer": "Basically the Oscars afterparty."
+    },
+    {
+      "id": "music",
+      "emoji": "🎤",
+      "label": "Music",
+      "chipBg": "#EFE5FF",
+      "chipText": "#7C3AED",
+      "noun": ["chart-topper", "chart-toppers"],
+      "closer": "The aux cord will make history."
+    },
+    {
+      "id": "sports",
+      "emoji": "🏆",
+      "label": "Sports",
+      "chipBg": "#DCF6EE",
+      "chipText": "#0E8F77",
+      "noun": ["champion", "champions"],
+      "closer": "Charades is about to get extremely competitive."
+    },
+    {
+      "id": "politics",
+      "emoji": "🏛️",
+      "label": "Politics",
+      "chipBg": "#E3ECFF",
+      "chipText": "#2957D0",
+      "noun": ["world leader", "world leaders"],
+      "closer": "Expect a formal toast. Maybe two."
+    },
+    {
+      "id": "tv",
+      "emoji": "✨",
+      "label": "TV",
+      "chipBg": "#FFF1D6",
+      "chipText": "#B45309",
+      "noun": ["TV icon", "TV icons"],
+      "closer": "The group photo will be legendary."
+    }
+  ],
+  "celebrities": [
+    {
+      "slug": "george-clooney",
+      "name": "George Clooney",
+      "first": "George",
+      "cat": "movies",
+      "tag": "Oscar winner. Eternal best-man energy.",
+      "avatar": {
+        "bg": ["#8C4DFF", "#FF3D8F"],
+        "skin": "#EFB98D",
+        "hair": { "style": "part", "color": "#8E939B" },
+        "brow": "#6E7076",
+        "outfit": { "kind": "tux", "c1": "#2B1B45" },
+        "mouth": "smile",
+        "showEars": true
+      }
+    },
+    {
+      "slug": "taylor-swift",
+      "name": "Taylor Swift",
+      "first": "Taylor",
+      "cat": "music",
+      "tag": "Will absolutely write a song about this party.",
+      "avatar": {
+        "bg": ["#FF3D8F", "#FF8A3D"],
+        "skin": "#F9D2A6",
+        "hair": { "style": "bob", "color": "#F5D76E" },
+        "brow": "#C9A24B",
+        "outfit": { "kind": "sparkle", "c1": "#7EA8FF" },
+        "mouth": "lips"
+      }
+    },
+    {
+      "slug": "dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "first": "The Rock",
+      "cat": "movies",
+      "tag": "Can bench-press the buffet table. Brings pancakes.",
+      "avatar": {
+        "bg": ["#12C2B9", "#3D7BFF"],
+        "skin": "#B07B4F",
+        "brow": "#2B1B12",
+        "outfit": { "kind": "tee", "c1": "#241239" },
+        "mouth": "grin",
+        "raised": true,
+        "facial": { "kind": "goatee", "color": "#2B1B12" },
+        "extra": "chain",
+        "showEars": true
+      }
+    },
+    {
+      "slug": "beyonce",
+      "name": "Beyoncé",
+      "first": "Beyoncé",
+      "cat": "music",
+      "tag": "The party officially starts when she says it starts.",
+      "avatar": {
+        "bg": ["#FFC53D", "#FF3D8F"],
+        "skin": "#A9713F",
+        "hair": { "style": "waves", "color": "#C98A3D" },
+        "brow": "#6B4423",
+        "outfit": { "kind": "sparkle", "c1": "#FFD75E" },
+        "mouth": "grin",
+        "ear": "hoop"
+      }
+    },
+    {
+      "slug": "keanu-reeves",
+      "name": "Keanu Reeves",
+      "first": "Keanu",
+      "cat": "movies",
+      "tag": "Breathtaking. Extremely polite. Knows kung fu.",
+      "avatar": {
+        "bg": ["#3D7BFF", "#8C4DFF"],
+        "skin": "#EFB98D",
+        "hair": { "style": "long", "color": "#26201A" },
+        "brow": "#26201A",
+        "outfit": { "kind": "tee", "c1": "#1E1A2E" },
+        "mouth": "beard",
+        "facial": { "kind": "beard", "color": "#3F332A" },
+        "tuck": true
+      }
+    },
+    {
+      "slug": "zendaya",
+      "name": "Zendaya",
+      "first": "Zendaya",
+      "cat": "movies",
+      "tag": "Will out-dress everyone, including the host.",
+      "avatar": {
+        "bg": ["#FF8A3D", "#FF3D8F"],
+        "skin": "#A9713F",
+        "hair": { "style": "curls", "color": "#3B2A20" },
+        "brow": "#3B2A20",
+        "outfit": { "kind": "blazer", "c1": "#E8323C" },
+        "mouth": "smile",
+        "ear": "stud"
+      }
+    },
+    {
+      "slug": "barack-obama",
+      "name": "Barack Obama",
+      "first": "Barack",
+      "cat": "politics",
+      "tag": "44th President. A killer toast is guaranteed.",
+      "avatar": {
+        "bg": ["#3D7BFF", "#12C2B9"],
+        "skin": "#8D5B34",
+        "hair": { "style": "buzz", "color": "#57606B" },
+        "brow": "#3A3F46",
+        "outfit": { "kind": "suit", "c1": "#24345C", "c2": "#FFFFFF", "accent": "#E0506B" },
+        "mouth": "grin",
+        "showEars": true
+      }
+    },
+    {
+      "slug": "oprah-winfrey",
+      "name": "Oprah Winfrey",
+      "first": "Oprah",
+      "cat": "tv",
+      "tag": "You get a seat! And YOU get a seat!",
+      "avatar": {
+        "bg": ["#8C4DFF", "#FF8A3D"],
+        "skin": "#8D5B34",
+        "hair": { "style": "curlsbig", "color": "#3B2A20" },
+        "brow": "#3B2A20",
+        "outfit": { "kind": "blazer", "c1": "#7C3AED" },
+        "mouth": "grin",
+        "ear": "stud"
+      }
+    },
+    {
+      "slug": "lionel-messi",
+      "name": "Lionel Messi",
+      "first": "Leo",
+      "cat": "sports",
+      "tag": "The GOAT. Might nutmeg your coffee table.",
+      "avatar": {
+        "bg": ["#FF3D8F", "#8C4DFF"],
+        "skin": "#EFB98D",
+        "hair": { "style": "short", "color": "#6E4B2A" },
+        "brow": "#6E4B2A",
+        "outfit": { "kind": "stripes", "c1": "#FFFFFF", "c2": "#86CDEB" },
+        "mouth": "beard",
+        "facial": { "kind": "beard", "color": "#6E4B2A" },
+        "showEars": true
+      }
+    },
+    {
+      "slug": "serena-williams",
+      "name": "Serena Williams",
+      "first": "Serena",
+      "cat": "sports",
+      "tag": "23 Grand Slams. Undefeated at party games too.",
+      "avatar": {
+        "bg": ["#12C2B9", "#FFC53D"],
+        "skin": "#8D5B34",
+        "hair": { "style": "bun", "color": "#241A12", "tie": "#FF3D8F" },
+        "brow": "#241A12",
+        "outfit": { "kind": "tee", "c1": "#FF6F61" },
+        "mouth": "grin",
+        "ear": "stud"
+      }
+    },
+    {
+      "slug": "tom-hanks",
+      "name": "Tom Hanks",
+      "first": "Tom",
+      "cat": "movies",
+      "tag": "America's dad. Makes sure everyone gets home safe.",
+      "avatar": {
+        "bg": ["#FF8A3D", "#FFC53D"],
+        "skin": "#F7C9A3",
+        "hair": { "style": "short", "color": "#9AA0A8" },
+        "brow": "#7B818A",
+        "outfit": { "kind": "cardigan", "c1": "#8A6D5C" },
+        "mouth": "smile",
+        "showEars": true
+      }
+    },
+    {
+      "slug": "lady-gaga",
+      "name": "Lady Gaga",
+      "first": "Gaga",
+      "cat": "music",
+      "tag": "Born to perform. May arrive in an egg.",
+      "avatar": {
+        "bg": ["#FF3D8F", "#8C4DFF"],
+        "skin": "#F9D2A6",
+        "hair": { "style": "long", "color": "#F3E9CF" },
+        "brow": "#C9A24B",
+        "outfit": { "kind": "sparkle", "c1": "#C0C6FF" },
+        "mouth": "lips",
+        "glasses": "tint"
+      }
+    },
+    {
+      "slug": "ryan-reynolds",
+      "name": "Ryan Reynolds",
+      "first": "Ryan",
+      "cat": "movies",
+      "tag": "Professional wisecracker. Conveniently owns a gin brand.",
+      "avatar": {
+        "bg": ["#12C2B9", "#8C4DFF"],
+        "skin": "#F1BE93",
+        "hair": { "style": "quiff", "color": "#6E4B2A" },
+        "brow": "#5A3D22",
+        "outfit": { "kind": "suit", "c1": "#55617A", "c2": "#FFFFFF", "accent": "#241239" },
+        "mouth": "smile",
+        "raised": true,
+        "showEars": true
+      }
+    },
+    {
+      "slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "first": "Snoop",
+      "cat": "music",
+      "tag": "Controls the aux cord. This is non-negotiable.",
+      "avatar": {
+        "bg": ["#FFC53D", "#12C2B9"],
+        "skin": "#6F4326",
+        "hair": { "style": "braids", "color": "#1E1A16" },
+        "brow": "#1E1A16",
+        "outfit": { "kind": "hoodie", "c1": "#3D7BFF" },
+        "mouth": "smile",
+        "glasses": "sun"
+      }
+    },
+    {
+      "slug": "ariana-grande",
+      "name": "Ariana Grande",
+      "first": "Ariana",
+      "cat": "music",
+      "tag": "The ponytail requires its own seat. Worth it.",
+      "avatar": {
+        "bg": ["#FF7BAC", "#8C4DFF"],
+        "skin": "#F1BE93",
+        "hair": { "style": "ponytail", "color": "#4A2F1D", "tie": "#FF3D8F" },
+        "brow": "#4A2F1D",
+        "outfit": { "kind": "tee", "c1": "#B79CFF" },
+        "mouth": "smile",
+        "ear": "stud",
+        "strongBlush": true
+      }
+    },
+    {
+      "slug": "morgan-freeman",
+      "name": "Morgan Freeman",
+      "first": "Morgan",
+      "cat": "movies",
+      "tag": "Will narrate the entire evening. You'll love it.",
+      "avatar": {
+        "bg": ["#3D7BFF", "#FFC53D"],
+        "skin": "#6F4326",
+        "hair": { "style": "afro", "color": "#B9BDC4" },
+        "brow": "#9DA2AB",
+        "outfit": { "kind": "blazer", "c1": "#24345C" },
+        "mouth": "beard",
+        "facial": { "kind": "beard", "color": "#B9BDC4" },
+        "ear": "stud"
+      }
+    },
+    {
+      "slug": "michelle-obama",
+      "name": "Michelle Obama",
+      "first": "Michelle",
+      "cat": "politics",
+      "tag": "When the party goes low, she goes high.",
+      "avatar": {
+        "bg": ["#FF8A3D", "#8C4DFF"],
+        "skin": "#8D5B34",
+        "hair": { "style": "bob", "color": "#241A12" },
+        "brow": "#241A12",
+        "outfit": { "kind": "blazer", "c1": "#0FA3A3" },
+        "mouth": "grin",
+        "ear": "stud"
+      }
+    },
+    {
+      "slug": "elton-john",
+      "name": "Elton John",
+      "first": "Elton",
+      "cat": "music",
+      "tag": "Still standing. Still sparkling. Brings the piano.",
+      "avatar": {
+        "bg": ["#FF3D8F", "#FFC53D"],
+        "skin": "#F7C9A3",
+        "hair": { "style": "short", "color": "#B07A45" },
+        "brow": "#8A5C30",
+        "outfit": { "kind": "sparkle", "c1": "#8C4DFF" },
+        "mouth": "grin",
+        "glasses": "tint",
+        "showEars": true
+      }
+    }
+  ]
+}
